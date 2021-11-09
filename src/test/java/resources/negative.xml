@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestSuiteName">
+    <test name="Negative tests" parallel="true" thread-count="5">
+        <groups>
+            <run>
+                <include name="Negative"></include>
+            </run>
+        </groups>
+        <packages>
+            <package name="scooters"></package>
+            <package name="zoo"></package>
+        </packages>
+        <classes>
+        </classes>
+    </test>
+</suite>

@@ -1,4 +1,4 @@
-package com.company.zoo;
+package zoo;
 
 public interface Swims {
     void swim();

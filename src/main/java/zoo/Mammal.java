@@ -1,8 +1,8 @@
-package com.company.zoo;
+package zoo;
 
 public class Mammal extends Animal {
-    Mammal(int legs, String breath, String moves) {
-        super(legs, breath, moves);
+    public Mammal(int legs, int wings, String breath, String moves) {
+        super(legs, wings, breath, moves);
     }
 
     public void speaks() {

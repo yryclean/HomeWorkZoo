@@ -1,8 +1,8 @@
-package com.company.zoo;
+package zoo;
 
 public class Fish extends Animal implements Swims {
-    Fish(int legs, String breath, String moves) {
-        super(legs, breath, moves);
+    Fish(int legs, int wings, String breath, String moves) {
+        super(legs, wings, breath, moves);
     }
 
     public void swim() {

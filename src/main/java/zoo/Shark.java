@@ -1,8 +1,8 @@
-package com.company.zoo;
+package zoo;
 
 public class Shark extends Fish implements Swims, Predator {
-    Shark(int legs, String breath, String moves) {
-        super(legs, breath, moves);
+    Shark(int legs, int wings, String breath, String moves) {
+        super(legs, wings, breath, moves);
     }
 
     @Override

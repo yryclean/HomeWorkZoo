@@ -1,8 +1,9 @@
-package com.company.zoo;
+package zoo;
 
 public class Tiger extends Mammal implements Predator {
-    Tiger(int legs, String breath, String moves) {
-        super(legs, breath, moves);
+
+    Tiger(int legs, int wings, String breath, String moves) {
+        super(legs, wings, breath, moves);
     }
 
     @Override
@@ -12,7 +13,7 @@ public class Tiger extends Mammal implements Predator {
 
     @Override
     public void speaks() {
-        System.out.println("Tiger have: " + legs + " legs");
+        System.out.println("Tiger has: " + legs + " legs");
         System.out.println("Tiger breath: " + breath);
         System.out.println("Tiger moves and lives: " + moves);
     }
