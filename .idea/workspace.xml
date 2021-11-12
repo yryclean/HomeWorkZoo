@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fce80391-03cc-4bab-95b0-780fadbcd170" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/scooters/KingSongDS11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/scooters/KugooG2Pro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/scooters/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/scooters/MaxPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/scooters/XiaomiM365.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zoo/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zoo/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/negative.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/regression.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/sanity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/scooters/GroupTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/scooters/KingSongDS11Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/scooters/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/scooters/XiaomiM365Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/zoo/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/zoo/BirdTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/zoo/ChickenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/zoo/GroupTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/zoo/ScreenshotListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/zoo/SharkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/zoo/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/zoo/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zoo/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/zoo/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/zoo/Chicken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/zoo/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zoo/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/zoo/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zoo/Flyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/zoo/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zoo/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/zoo/Predator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zoo/Predator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/zoo/Shark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zoo/Shark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/zoo/Swims.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zoo/Swims.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/zoo/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zoo/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/zoo/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zoo/Zoo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="TestNG Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="20XR2Kxzflc3hsD8ymCCn0wD3va" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="scooters" />
+      <recent name="zoo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.BirdTest.testSpeaks">
+    <configuration name="BirdTest.testSpeaks" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ZooUnitTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zoo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="zoo" />
+      <option name="MAIN_CLASS_NAME" value="zoo.BirdTest" />
+      <option name="METHOD_NAME" value="testSpeaks" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChickenTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ZooUnitTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zoo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="zoo" />
+      <option name="MAIN_CLASS_NAME" value="zoo.ChickenTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/user/ZooUnitTest/src/test/java/resources/negative_scooters.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ZooUnitTests" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/negative_scooters.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/user/ZooUnitTest/src/test/java/resources/negative.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ZooUnitTests" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/negative.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/user/ZooUnitTest/src/test/java/resources/regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ZooUnitTests" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/regression.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.BirdTest.testSpeaks" />
+        <item itemvalue="TestNG./Users/user/ZooUnitTest/src/test/java/resources/regression.xml" />
+        <item itemvalue="TestNG./Users/user/ZooUnitTest/src/test/java/resources/negative.xml" />
+        <item itemvalue="TestNG.ChickenTest" />
+        <item itemvalue="TestNG./Users/user/ZooUnitTest/src/test/java/resources/negative_scooters.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fce80391-03cc-4bab-95b0-780fadbcd170" name="Changes" comment="" />
+      <created>1636188739364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636188739364</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
