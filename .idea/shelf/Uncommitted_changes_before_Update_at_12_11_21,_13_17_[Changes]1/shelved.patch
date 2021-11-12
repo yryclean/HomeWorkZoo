@@ -1,0 +1,1221 @@
+Index: .idea/uiDesigner.xml
+===================================================================
+diff --git a/.idea/uiDesigner.xml b/.idea/uiDesigner.xml
+deleted file mode 100644
+--- a/.idea/uiDesigner.xml	(revision be26c4628846f33656c0fd82ac013a74a5313337)
++++ /dev/null	(revision be26c4628846f33656c0fd82ac013a74a5313337)
+@@ -1,124 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="Palette2">
+-    <group name="Swing">
+-      <item class="com.intellij.uiDesigner.HSpacer" tooltip-text="Horizontal Spacer" icon="/com/intellij/uiDesigner/icons/hspacer.png" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="1" hsize-policy="6" anchor="0" fill="1" />
+-      </item>
+-      <item class="com.intellij.uiDesigner.VSpacer" tooltip-text="Vertical Spacer" icon="/com/intellij/uiDesigner/icons/vspacer.png" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="1" anchor="0" fill="2" />
+-      </item>
+-      <item class="javax.swing.JPanel" icon="/com/intellij/uiDesigner/icons/panel.png" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3" />
+-      </item>
+-      <item class="javax.swing.JScrollPane" icon="/com/intellij/uiDesigner/icons/scrollPane.png" removable="false" auto-create-binding="false" can-attach-label="true">
+-        <default-constraints vsize-policy="7" hsize-policy="7" anchor="0" fill="3" />
+-      </item>
+-      <item class="javax.swing.JButton" icon="/com/intellij/uiDesigner/icons/button.png" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="3" anchor="0" fill="1" />
+-        <initial-values>
+-          <property name="text" value="Button" />
+-        </initial-values>
+-      </item>
+-      <item class="javax.swing.JRadioButton" icon="/com/intellij/uiDesigner/icons/radioButton.png" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
+-        <initial-values>
+-          <property name="text" value="RadioButton" />
+-        </initial-values>
+-      </item>
+-      <item class="javax.swing.JCheckBox" icon="/com/intellij/uiDesigner/icons/checkBox.png" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
+-        <initial-values>
+-          <property name="text" value="CheckBox" />
+-        </initial-values>
+-      </item>
+-      <item class="javax.swing.JLabel" icon="/com/intellij/uiDesigner/icons/label.png" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="0" anchor="8" fill="0" />
+-        <initial-values>
+-          <property name="text" value="Label" />
+-        </initial-values>
+-      </item>
+-      <item class="javax.swing.JTextField" icon="/com/intellij/uiDesigner/icons/textField.png" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+-          <preferred-size width="150" height="-1" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JPasswordField" icon="/com/intellij/uiDesigner/icons/passwordField.png" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+-          <preferred-size width="150" height="-1" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JFormattedTextField" icon="/com/intellij/uiDesigner/icons/formattedTextField.png" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+-          <preferred-size width="150" height="-1" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JTextArea" icon="/com/intellij/uiDesigner/icons/textArea.png" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JTextPane" icon="/com/intellij/uiDesigner/icons/textPane.png" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JEditorPane" icon="/com/intellij/uiDesigner/icons/editorPane.png" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JComboBox" icon="/com/intellij/uiDesigner/icons/comboBox.png" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="0" hsize-policy="2" anchor="8" fill="1" />
+-      </item>
+-      <item class="javax.swing.JTable" icon="/com/intellij/uiDesigner/icons/table.png" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JList" icon="/com/intellij/uiDesigner/icons/list.png" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="2" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JTree" icon="/com/intellij/uiDesigner/icons/tree.png" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JTabbedPane" icon="/com/intellij/uiDesigner/icons/tabbedPane.png" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
+-          <preferred-size width="200" height="200" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JSplitPane" icon="/com/intellij/uiDesigner/icons/splitPane.png" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
+-          <preferred-size width="200" height="200" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JSpinner" icon="/com/intellij/uiDesigner/icons/spinner.png" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
+-      </item>
+-      <item class="javax.swing.JSlider" icon="/com/intellij/uiDesigner/icons/slider.png" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
+-      </item>
+-      <item class="javax.swing.JSeparator" icon="/com/intellij/uiDesigner/icons/separator.png" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3" />
+-      </item>
+-      <item class="javax.swing.JProgressBar" icon="/com/intellij/uiDesigner/icons/progressbar.png" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1" />
+-      </item>
+-      <item class="javax.swing.JToolBar" icon="/com/intellij/uiDesigner/icons/toolbar.png" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1">
+-          <preferred-size width="-1" height="20" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JToolBar$Separator" icon="/com/intellij/uiDesigner/icons/toolbarSeparator.png" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="0" anchor="0" fill="1" />
+-      </item>
+-      <item class="javax.swing.JScrollBar" icon="/com/intellij/uiDesigner/icons/scrollbar.png" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="0" anchor="0" fill="2" />
+-      </item>
+-    </group>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/encodings.xml
+===================================================================
+diff --git a/.idea/encodings.xml b/.idea/encodings.xml
+deleted file mode 100644
+--- a/.idea/encodings.xml	(revision be26c4628846f33656c0fd82ac013a74a5313337)
++++ /dev/null	(revision be26c4628846f33656c0fd82ac013a74a5313337)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="Encoding">
+-    <file url="PROJECT" charset="UTF-8" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/project-template.xml
+===================================================================
+diff --git a/.idea/project-template.xml b/.idea/project-template.xml
+deleted file mode 100644
+--- a/.idea/project-template.xml	(revision be26c4628846f33656c0fd82ac013a74a5313337)
++++ /dev/null	(revision be26c4628846f33656c0fd82ac013a74a5313337)
+@@ -1,3 +0,0 @@
+-<template>
+-  <input-field default="com.company">IJ_BASE_PACKAGE</input-field>
+-</template>
+\ No newline at end of file
+Index: .idea/modules.xml
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+deleted file mode 100644
+--- a/.idea/modules.xml	(revision be26c4628846f33656c0fd82ac013a74a5313337)
++++ /dev/null	(revision be26c4628846f33656c0fd82ac013a74a5313337)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/Zoo.iml" filepath="$PROJECT_DIR$/Zoo.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/.gitignore
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+deleted file mode 100644
+--- a/.idea/.gitignore	(revision be26c4628846f33656c0fd82ac013a74a5313337)
++++ /dev/null	(revision be26c4628846f33656c0fd82ac013a74a5313337)
+@@ -1,3 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+Index: .idea/description.html
+===================================================================
+diff --git a/.idea/description.html b/.idea/description.html
+deleted file mode 100644
+--- a/.idea/description.html	(revision be26c4628846f33656c0fd82ac013a74a5313337)
++++ /dev/null	(revision be26c4628846f33656c0fd82ac013a74a5313337)
+@@ -1,1 +0,0 @@
+-<html>Simple <b>Java</b> application that includes a class with <code>main()</code> method</html>
+\ No newline at end of file
+Index: .idea/.name
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.name b/.idea/.name
+new file mode 100644
+--- /dev/null	(date 1636188742800)
++++ b/.idea/.name	(date 1636188742800)
+@@ -0,0 +1,1 @@
++ZooUnitTests
+\ No newline at end of file
+Index: src/com/company/zoo/Chicken.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/com/company/zoo/Chicken.java b/src/main/java/zoo/Chicken.java
+rename from src/com/company/zoo/Chicken.java
+rename to src/main/java/zoo/Chicken.java
+--- a/src/com/company/zoo/Chicken.java	(revision be26c4628846f33656c0fd82ac013a74a5313337)
++++ b/src/main/java/zoo/Chicken.java	(date 1636707292518)
+@@ -1,18 +1,23 @@
+-package com.company.zoo;
++package zoo;
+ 
+ public class Chicken extends  Bird {
+-    Chicken(int legs, String breath, String moves) {
+-        super(legs, breath, moves);
++    Chicken(int legs, int wings, String breath, String moves) {
++        super(legs, wings, breath, moves);
+     }
+ 
+     @Override
+     public void fly() {
+-        System.out.println("Chicken cannot fly on long range, it's more like jumping with a help of wings");
++        String cannotFly = "Chicken is a household bird, so it cannot fly. It's flying is more like long jumping with a help of wings";
++        int wings = 2;
++        boolean isHouseHold = true;
++        if (wings == 2 && isHouseHold) {
++            System.out.println(cannotFly);
++        }
+     }
+ 
+     @Override
+     public void speaks() {
+-        System.out.println("Chicken have: " + legs + " legs");
++        System.out.println("Chicken has: " + legs + " legs");
+         System.out.println("Chicken breath: " + breath);
+         System.out.println("Chicken can move and lives: " + moves);
+     }
+Index: src/com/company/zoo/Mammal.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/com/company/zoo/Mammal.java b/src/main/java/zoo/Mammal.java
+rename from src/com/company/zoo/Mammal.java
+rename to src/main/java/zoo/Mammal.java
+--- a/src/com/company/zoo/Mammal.java	(revision be26c4628846f33656c0fd82ac013a74a5313337)
++++ b/src/main/java/zoo/Mammal.java	(date 1636706822997)
+@@ -1,8 +1,8 @@
+-package com.company.zoo;
++package zoo;
+ 
+ public class Mammal extends Animal {
+-    Mammal(int legs, String breath, String moves) {
+-        super(legs, breath, moves);
++    public Mammal(int legs, int wings, String breath, String moves) {
++        super(legs, wings, breath, moves);
+     }
+ 
+     public void speaks() {
+Index: pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/pom.xml b/pom.xml
+new file mode 100644
+--- /dev/null	(date 1636209498306)
++++ b/pom.xml	(date 1636209498306)
+@@ -0,0 +1,24 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project xmlns="http://maven.apache.org/POM/4.0.0"
++         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
++         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
++    <modelVersion>4.0.0</modelVersion>
++
++    <groupId>org.example</groupId>
++    <artifactId>ZooUnitTests</artifactId>
++    <version>1.0-SNAPSHOT</version>
++    <dependencies>
++        <dependency>
++            <groupId>org.testng</groupId>
++            <artifactId>testng</artifactId>
++            <version>7.4.0</version>
++            <scope>test</scope>
++        </dependency>
++    </dependencies>
++
++    <properties>
++        <maven.compiler.source>17</maven.compiler.source>
++        <maven.compiler.target>17</maven.compiler.target>
++    </properties>
++
++</project>
+\ No newline at end of file
+Index: src/com/company/zoo/Animal.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/com/company/zoo/Animal.java b/src/main/java/zoo/Animal.java
+rename from src/com/company/zoo/Animal.java
+rename to src/main/java/zoo/Animal.java
+--- a/src/com/company/zoo/Animal.java	(revision be26c4628846f33656c0fd82ac013a74a5313337)
++++ b/src/main/java/zoo/Animal.java	(date 1636705783530)
+@@ -1,14 +1,16 @@
+-package com.company.zoo;
++package zoo;
+ 
+ public class Animal {
+     int legs;
++    int wings;
+     String breath;
+     String moves;
+ 
+-    protected Animal(int legs, String breath, String moves) {
++    protected Animal(int legs, int wings, String breath, String moves) {
+         this.legs = legs;
+         this.moves = moves;
+         this.breath = breath;
++        this.wings = wings;
+     }
+     public void speaks() {
+         System.out.println("Animals have: " + legs + " legs");
+Index: src/com/company/zoo/Tiger.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/com/company/zoo/Tiger.java b/src/main/java/zoo/Tiger.java
+rename from src/com/company/zoo/Tiger.java
+rename to src/main/java/zoo/Tiger.java
+--- a/src/com/company/zoo/Tiger.java	(revision be26c4628846f33656c0fd82ac013a74a5313337)
++++ b/src/main/java/zoo/Tiger.java	(date 1636707206113)
+@@ -1,8 +1,9 @@
+-package com.company.zoo;
++package zoo;
+ 
+ public class Tiger extends Mammal implements Predator {
+-    Tiger(int legs, String breath, String moves) {
+-        super(legs, breath, moves);
++
++    Tiger(int legs, int wings, String breath, String moves) {
++        super(legs, wings, breath, moves);
+     }
+ 
+     @Override
+@@ -12,7 +13,7 @@
+ 
+     @Override
+     public void speaks() {
+-        System.out.println("Tiger have: " + legs + " legs");
++        System.out.println("Tiger has: " + legs + " legs");
+         System.out.println("Tiger breath: " + breath);
+         System.out.println("Tiger moves and lives: " + moves);
+     }
+Index: src/com/company/zoo/Swims.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/com/company/zoo/Swims.java b/src/main/java/zoo/Swims.java
+rename from src/com/company/zoo/Swims.java
+rename to src/main/java/zoo/Swims.java
+--- a/src/com/company/zoo/Swims.java	(revision be26c4628846f33656c0fd82ac013a74a5313337)
++++ b/src/main/java/zoo/Swims.java	(date 1636299958412)
+@@ -1,4 +1,4 @@
+-package com.company.zoo;
++package zoo;
+ 
+ public interface Swims {
+     void swim();
+Index: src/com/company/zoo/Shark.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/com/company/zoo/Shark.java b/src/main/java/zoo/Shark.java
+rename from src/com/company/zoo/Shark.java
+rename to src/main/java/zoo/Shark.java
+--- a/src/com/company/zoo/Shark.java	(revision be26c4628846f33656c0fd82ac013a74a5313337)
++++ b/src/main/java/zoo/Shark.java	(date 1636706851095)
+@@ -1,8 +1,8 @@
+-package com.company.zoo;
++package zoo;
+ 
+ public class Shark extends Fish implements Swims, Predator {
+-    Shark(int legs, String breath, String moves) {
+-        super(legs, breath, moves);
++    Shark(int legs, int wings, String breath, String moves) {
++        super(legs, wings, breath, moves);
+     }
+ 
+     @Override
+Index: src/com/company/zoo/Fish.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/com/company/zoo/Fish.java b/src/main/java/zoo/Fish.java
+rename from src/com/company/zoo/Fish.java
+rename to src/main/java/zoo/Fish.java
+--- a/src/com/company/zoo/Fish.java	(revision be26c4628846f33656c0fd82ac013a74a5313337)
++++ b/src/main/java/zoo/Fish.java	(date 1636706394415)
+@@ -1,8 +1,8 @@
+-package com.company.zoo;
++package zoo;
+ 
+ public class Fish extends Animal implements Swims {
+-    Fish(int legs, String breath, String moves) {
+-        super(legs, breath, moves);
++    Fish(int legs, int wings, String breath, String moves) {
++        super(legs, wings, breath, moves);
+     }
+ 
+     public void swim() {
+Index: src/com/company/zoo/Bird.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/com/company/zoo/Bird.java b/src/main/java/zoo/Bird.java
+rename from src/com/company/zoo/Bird.java
+rename to src/main/java/zoo/Bird.java
+--- a/src/com/company/zoo/Bird.java	(revision be26c4628846f33656c0fd82ac013a74a5313337)
++++ b/src/main/java/zoo/Bird.java	(date 1636707206110)
+@@ -1,19 +1,26 @@
+-package com.company.zoo;
++package zoo;
+ 
+ public class Bird extends Animal {
+ 
+-    public Bird(int legs, String breath, String moves) {
+-        super(legs, breath, moves);
++    public Bird(int legs, int wings, String breath, String moves) {
++        super(legs, wings, breath, moves);
+     }
+ 
+     @Override
+     public void speaks() {
+-        System.out.println("Bird have: " + legs + " legs");
++        System.out.println("Bird have: " + legs + " legs" + " and " + wings + "wings");
+         System.out.println("Bird breath: " + breath);
+         System.out.println("Bird can move and live: " + moves);
+     }
+ 
+     public void fly() {
+-        System.out.println("Birds can fly");
++        String canFly = "Almost all birds that live in wild nature can fly. Except penguins, ostrich and some others";
++        String cannotFly = "Farmers or house hold birds cannot fly, even while they having a wings they still only can jump";
++        int wings = 2;
++        boolean isHouseHold = true;
++        if(wings == 2 && !isHouseHold) {
++            System.out.println(canFly);
++        } else
++            System.out.println(cannotFly);
+     }
+ }
+Index: src/com/company/zoo/Zoo.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/com/company/zoo/Zoo.java b/src/main/java/zoo/Zoo.java
+rename from src/com/company/zoo/Zoo.java
+rename to src/main/java/zoo/Zoo.java
+--- a/src/com/company/zoo/Zoo.java	(revision be26c4628846f33656c0fd82ac013a74a5313337)
++++ b/src/main/java/zoo/Zoo.java	(date 1636706851098)
+@@ -1,4 +1,4 @@
+-package com.company.zoo;
++package zoo;
+ 
+ import java.util.Scanner;
+ 
+@@ -19,19 +19,19 @@
+         switch (number) {
+             case 1:
+                 System.out.println();
+-                Tiger tiger1 = new Tiger(4, "air", "on land");
++                Tiger tiger1 = new Tiger(4, 0, "air", "on land");
+                 tiger1.speaks();
+                 tiger1.hunt();
+                 scanner.nextInt();
+             case 2:
+                 System.out.println();
+-                Chicken chicken1 = new Chicken(2, "air", " on land and a bit in air");
++                Chicken chicken1 = new Chicken(2, 2, "air", " on land and a bit in air");
+                 chicken1.speaks();
+                 chicken1.fly();
+                 scanner.nextInt();
+             case 3:
+                 System.out.println();
+-                Shark shark1 = new Shark(0, "air from water", "in water");
++                Shark shark1 = new Shark(0, 0, "air from water", "in water");
+                 shark1.speaks();
+                 shark1.swim();
+                 shark1.hunt();
+Index: src/test/java/resources/regression.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/resources/regression.xml b/src/test/java/resources/regression.xml
+new file mode 100644
+--- /dev/null	(date 1636303798264)
++++ b/src/test/java/resources/regression.xml	(date 1636303798264)
+@@ -0,0 +1,18 @@
++<?xml version="1.0" encoding="UTF-8" ?>
++<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
++<suite name="TestSuiteName">
++    <test name="Regression tests" parallel="true" thread-count="5">
++        <groups>
++            <run>
++                <include name="Regression"></include>
++            </run>
++        </groups>
++        <packages>
++            <package name="zoo"></package>
++        </packages>
++        <classes>
++            <class name="zoo.AnimalTest"></class>
++            <class name="zoo.BirdTest"></class>
++        </classes>
++    </test>
++</suite>
+\ No newline at end of file
+Index: src/test/java/resources/sanity.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/resources/sanity.xml b/src/test/java/resources/sanity.xml
+new file mode 100644
+--- /dev/null	(date 1636303504847)
++++ b/src/test/java/resources/sanity.xml	(date 1636303504847)
+@@ -0,0 +1,17 @@
++<?xml version="1.0" encoding="UTF-8" ?>
++<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
++<suite name="TestSuiteName">
++    <test name="Regression tests" parallel="true" thread-count="5">
++        <groups>
++            <run>
++                <include name="Sanity"></include>
++            </run>
++        </groups>
++        <packages>
++            <package name="zoo"></package>
++        </packages>
++        <classes>
++            <class name="zoo.AnimalTest" />
++        </classes>
++    </test>
++</suite>
+\ No newline at end of file
+Index: src/test/java/zoo/SharkTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/zoo/SharkTest.java b/src/test/java/zoo/SharkTest.java
+new file mode 100644
+--- /dev/null	(date 1636300908022)
++++ b/src/test/java/zoo/SharkTest.java	(date 1636300908022)
+@@ -0,0 +1,33 @@
++package zoo;
++
++import org.testng.annotations.Test;
++
++import static org.testng.Assert.*;
++
++public class SharkTest extends TestBase{
++
++    @Test(groups = { GroupTest.SMOKE, GroupTest.REGRESSION })
++    public void testSwim() {
++        System.out.println("Shark swims in water and cannot live outside the water");
++        assertEquals("Shark swims in water and cannot live outside the water", "Shark swims in water and cannot live outside the water");
++    }
++
++    @Test(groups = { GroupTest.SMOKE, GroupTest.REGRESSION })
++    public void testSpeaks() {
++        int legs = 0;
++        String breath = "air from water";
++        String moves = "in water";
++        System.out.println("Shark has no: " + legs + " legs");
++        assertEquals(0, 0);
++        System.out.println("Shark breath: " + breath);
++        assertEquals("air from water", "air from water");
++        System.out.println("Shark moves and lives: " + moves);
++        assertEquals("in water", "in water");
++    }
++
++    @Test(groups = { GroupTest.SMOKE, GroupTest.REGRESSION })
++    public void testHunt() {
++        System.out.println("Shark hunts on other fish, birds or little animals that get in water");
++        assertEquals("Shark hunts","Shark hunts");
++    }
++}
+\ No newline at end of file
+Index: src/test/java/zoo/TestBase.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/zoo/TestBase.java b/src/test/java/zoo/TestBase.java
+new file mode 100644
+--- /dev/null	(date 1636298360714)
++++ b/src/test/java/zoo/TestBase.java	(date 1636298360714)
+@@ -0,0 +1,15 @@
++package zoo;
++
++import org.testng.annotations.AfterTest;
++import org.testng.annotations.BeforeTest;
++
++public class TestBase {
++    @BeforeTest
++    public void setUp() {
++        System.out.println("Some checks here...");
++    }
++    @AfterTest
++    public void tearDown() {
++        System.out.println("All checks are completed!");
++    }
++}
+Index: src/test/java/resources/negative_smoke.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/resources/negative_smoke.xml b/src/test/java/resources/negative_smoke.xml
+new file mode 100644
+--- /dev/null	(date 1636711619261)
++++ b/src/test/java/resources/negative_smoke.xml	(date 1636711619261)
+@@ -0,0 +1,20 @@
++<?xml version="1.0" encoding="UTF-8" ?>
++<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
++<suite name="Negative_smoke">
++    <test name="Negative tests" parallel="true" thread-count="5">
++        <groups>
++            <run>
++                <include name="Smoke"/>
++                <include name="Negative"></include>
++            </run>
++        </groups>
++        <packages>
++            <package name="scooters"/>
++            <package name="zoo"></package>
++        </packages>
++        <classes>
++            <class name="scooters.XiaomiM365Test"/>
++            <class name="zoo.ChickenTest"></class>
++        </classes>
++    </test>
++</suite>
+\ No newline at end of file
+Index: src/test/java/scooters/GroupTestNegative.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/scooters/GroupTestNegative.java b/src/test/java/scooters/GroupTestNegative.java
+new file mode 100644
+--- /dev/null	(date 1636359117963)
++++ b/src/test/java/scooters/GroupTestNegative.java	(date 1636359117963)
+@@ -0,0 +1,6 @@
++package scooters;
++
++public class GroupTestNegative {
++    public static final String REGRESSION = "Regression";
++    public static final String  SMOKE = "Smoke";
++}
+Index: src/test/java/scooters/GroupTestPositive.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/scooters/GroupTestPositive.java b/src/test/java/scooters/GroupTestPositive.java
+new file mode 100644
+--- /dev/null	(date 1636359117958)
++++ b/src/test/java/scooters/GroupTestPositive.java	(date 1636359117958)
+@@ -0,0 +1,6 @@
++package scooters;
++
++public class GroupTestPositive {
++    public static final String REGRESSION = "Regression";
++    public static final String  SMOKE = "Smoke";
++}
+Index: .idea/jarRepositories.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/jarRepositories.xml b/.idea/jarRepositories.xml
+new file mode 100644
+--- /dev/null	(date 1636188902770)
++++ b/.idea/jarRepositories.xml	(date 1636188902770)
+@@ -0,0 +1,20 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="RemoteRepositoriesConfiguration">
++    <remote-repository>
++      <option name="id" value="central" />
++      <option name="name" value="Central Repository" />
++      <option name="url" value="https://repo.maven.apache.org/maven2" />
++    </remote-repository>
++    <remote-repository>
++      <option name="id" value="central" />
++      <option name="name" value="Maven Central repository" />
++      <option name="url" value="https://repo1.maven.org/maven2" />
++    </remote-repository>
++    <remote-repository>
++      <option name="id" value="jboss.community" />
++      <option name="name" value="JBoss Community repository" />
++      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
++    </remote-repository>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/compiler.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/compiler.xml b/.idea/compiler.xml
+new file mode 100644
+--- /dev/null	(date 1636712263587)
++++ b/.idea/compiler.xml	(date 1636712263587)
+@@ -0,0 +1,13 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="CompilerConfiguration">
++    <annotationProcessing>
++      <profile name="Maven default annotation processors profile" enabled="true">
++        <sourceOutputDir name="target/generated-sources/annotations" />
++        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
++        <outputRelativeToContentRoot value="true" />
++        <module name="ZooUnitTests" />
++      </profile>
++    </annotationProcessing>
++  </component>
++</project>
+\ No newline at end of file
+Index: src/test/java/zoo/ScreenshotListener.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/zoo/ScreenshotListener.java b/src/test/java/zoo/ScreenshotListener.java
+new file mode 100644
+--- /dev/null	(date 1636712126462)
++++ b/src/test/java/zoo/ScreenshotListener.java	(date 1636712126462)
+@@ -0,0 +1,18 @@
++package zoo;
++
++import org.testng.ITestListener;
++import org.testng.ITestResult;
++
++public class ScreenshotListener implements ITestListener {
++    @Override
++    public void onTestFailure(ITestResult result) {
++        String testName = result.getName();
++        System.out.printf("Test %s has failed, screenshot is saved", testName);
++    }
++    @Override
++    public void onTestSkipped(ITestResult result) {
++        String testName = result.getName();
++        System.out.printf("Test %s has been skipped", testName);
++    }
++
++}
+Index: src/test/java/scooters/TestBase.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/scooters/TestBase.java b/src/test/java/scooters/TestBase.java
+new file mode 100644
+--- /dev/null	(date 1636357978086)
++++ b/src/test/java/scooters/TestBase.java	(date 1636357978086)
+@@ -0,0 +1,16 @@
++package scooters;
++
++import org.testng.annotations.AfterTest;
++import org.testng.annotations.BeforeTest;
++
++public class TestBase {
++    @BeforeTest
++    public void setUp() {
++        System.out.println("Please wait while packets are loading...");
++    }
++
++    @AfterTest
++    public void tearDown() {
++        System.out.println("All checks are completed!");
++    }
++}
+Index: .idea/inspectionProfiles/Project_Default.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/inspectionProfiles/Project_Default.xml b/.idea/inspectionProfiles/Project_Default.xml
+new file mode 100644
+--- /dev/null	(date 1636705784072)
++++ b/.idea/inspectionProfiles/Project_Default.xml	(date 1636705784072)
+@@ -0,0 +1,14 @@
++<component name="InspectionProjectProfileManager">
++  <profile version="1.0">
++    <option name="myName" value="Project Default" />
++    <inspection_tool class="groupsTestNG" enabled="true" level="WARNING" enabled_by_default="true">
++      <option name="groups">
++        <value>
++          <list size="1">
++            <item index="0" class="java.lang.String" itemvalue="Regression" />
++          </list>
++        </value>
++      </option>
++    </inspection_tool>
++  </profile>
++</component>
+\ No newline at end of file
+Index: src/test/java/scooters/XiaomiM365Test.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/scooters/XiaomiM365Test.java b/src/test/java/scooters/XiaomiM365Test.java
+new file mode 100644
+--- /dev/null	(date 1636360303883)
++++ b/src/test/java/scooters/XiaomiM365Test.java	(date 1636360303883)
+@@ -0,0 +1,29 @@
++package scooters;
++
++import org.testng.annotations.Test;
++
++import static org.testng.Assert.*;
++
++public class XiaomiM365Test extends TestBase {
++
++    @Test(groups = GroupTestNegative.SMOKE)
++    public void testGetPower() {
++        final byte power;
++        double battery = 36;
++        double controller = 15;
++        power = (byte) ((byte)battery * (byte)controller);
++        System.out.println(power);
++        assertEquals(540, 540);
++
++    }
++
++    @Test(groups = GroupTestNegative.SMOKE)
++    public void testGetPower1() {
++        final char power;
++        double battery = 36;
++        float controller = 15;
++        power = (char) (battery * controller);
++        System.out.println(power);
++        assertEquals(540, 540);
++    }
++}
+\ No newline at end of file
+Index: src/test/java/zoo/BirdTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/zoo/BirdTest.java b/src/test/java/zoo/BirdTest.java
+new file mode 100644
+--- /dev/null	(date 1636710987325)
++++ b/src/test/java/zoo/BirdTest.java	(date 1636710987325)
+@@ -0,0 +1,35 @@
++package zoo;
++
++import org.testng.annotations.Test;
++
++import static org.testng.Assert.*;
++
++public class BirdTest extends TestBase {
++
++    @Test(groups = {GroupTest.SMOKE, GroupTest.REGRESSION})
++    public void testSpeaks() {
++        int legs = 2;
++        String breath = "air";
++        String moves = "on land";
++        System.out.println("Bird have: " + legs + " legs");
++        assertEquals(2, 2);
++        System.out.println("Bird breath: " + breath);
++        assertEquals("air", "air");
++        System.out.println("Bird can move and live: " + moves);
++        assertEquals("in air", "in air");
++    }
++
++    @Test
++    public void testFly() {
++        String canFly = "Almost all wild birds can fly";
++        String cannotFly = "Farmers or household birds cannot fly";
++        int wings = 2;
++        boolean isHouseHold = true;
++        if (wings == 2 && !isHouseHold) {
++            System.out.println(cannotFly);
++        } else {
++                System.out.println(canFly);
++            }
++            assertEquals(cannotFly, cannotFly);
++        }
++    }
+\ No newline at end of file
+Index: src/test/java/zoo/ChickenTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/zoo/ChickenTest.java b/src/test/java/zoo/ChickenTest.java
+new file mode 100644
+--- /dev/null	(date 1636712181871)
++++ b/src/test/java/zoo/ChickenTest.java	(date 1636712181871)
+@@ -0,0 +1,38 @@
++package zoo;
++
++import org.testng.annotations.Listeners;
++import org.testng.annotations.Test;
++
++import static org.testng.Assert.*;
++@Listeners(ScreenshotListener.class)
++public class ChickenTest extends TestBase {
++
++    @Test(groups = GroupTest.REGRESSION)
++    public void testSpeaks() {
++        int legs = 2;
++        String breath = "air";
++        String moves = "on land and a bit in air";
++        System.out.println("Chicken have: " + legs + " legs");
++        assertEquals(2, 2);
++        System.out.println("Chicken breath: " + breath);
++        assertEquals("air", "air");
++        System.out.println("Chicken can move and live: " + moves);
++        assertEquals("on land and a bit in air", "on land and a bit in air");
++        fail();
++    }
++
++    @Test(groups = GroupTest.NEGATIVE, dependsOnMethods = "testSpeaks", alwaysRun = true)
++    public void testFly() {
++            String canFly = "Almost all wild birds can fly";
++            String cannotFly = "Farmers or household birds cannot fly";
++            int wings = 100;
++            boolean isHouseHold = !false;
++            if (wings == 2 && isHouseHold) {
++                System.out.println(cannotFly);
++            } else if(wings == 2 && !isHouseHold){
++                System.out.println(canFly);
++            } else
++                System.out.println("Wrong entry");
++            assertEquals("Wrong entry", "Wrong entry");
++        }
++    }
+\ No newline at end of file
+Index: src/main/java/scooters/KingSongDS11.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/scooters/KingSongDS11.java b/src/main/java/scooters/KingSongDS11.java
+new file mode 100644
+--- /dev/null	(date 1636357116835)
++++ b/src/main/java/scooters/KingSongDS11.java	(date 1636357116835)
+@@ -0,0 +1,20 @@
++package scooters;
++
++public class KingSongDS11 implements MaxPower {
++    private int battery;
++    private int power;
++    private final int controller = 30;
++    private final int nrOfControllers = 2;
++
++    public KingSongDS11(int wheel) {
++        this.battery = wheel;
++        setPower();
++    }
++    private void setPower() {
++        power = nrOfControllers * (battery * controller);
++    }
++    @Override
++    public double getPower() {
++        return power;
++    }
++}
+Index: src/main/java/scooters/KugooG2Pro.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/scooters/KugooG2Pro.java b/src/main/java/scooters/KugooG2Pro.java
+new file mode 100644
+--- /dev/null	(date 1636357116831)
++++ b/src/main/java/scooters/KugooG2Pro.java	(date 1636357116831)
+@@ -0,0 +1,19 @@
++package scooters;
++
++public class KugooG2Pro implements MaxPower {
++    private int battery;
++    private int power;
++    private final int controller = 30;
++
++    public KugooG2Pro(int wheel) {
++        this.battery = wheel;
++        setPower();
++    }
++    private void setPower() {
++        power = battery * controller;
++    }
++    @Override
++    public double getPower() {
++        return power;
++    }
++}
+Index: src/main/java/scooters/XiaomiM365.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/scooters/XiaomiM365.java b/src/main/java/scooters/XiaomiM365.java
+new file mode 100644
+--- /dev/null	(date 1636356974336)
++++ b/src/main/java/scooters/XiaomiM365.java	(date 1636356974336)
+@@ -0,0 +1,19 @@
++package scooters;
++
++public class XiaomiM365 implements MaxPower {
++    private int battery;
++    private int power;
++    private final int controller = 30;
++
++    public XiaomiM365(int wheel) {
++        this.battery = wheel;
++        setPower();
++    }
++    private void setPower() {
++        power = battery * controller;
++    }
++    @Override
++    public double getPower() {
++        return power;
++    }
++}
+Index: src/test/java/zoo/GroupTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/zoo/GroupTest.java b/src/test/java/zoo/GroupTest.java
+new file mode 100644
+--- /dev/null	(date 1636711408813)
++++ b/src/test/java/zoo/GroupTest.java	(date 1636711408813)
+@@ -0,0 +1,9 @@
++package zoo;
++
++public class GroupTest {
++    public static final String REGRESSION = "Regression";
++    public static final String SMOKE = "Smoke";
++    public static final String SANITY = "Sanity";
++    public static final String NEGATIVE = "Negative";
++
++}
+Index: src/com/company/zoo/Predator.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/com/company/zoo/Predator.java b/src/main/java/zoo/Predator.java
+rename from src/com/company/zoo/Predator.java
+rename to src/main/java/zoo/Predator.java
+--- a/src/com/company/zoo/Predator.java	(revision be26c4628846f33656c0fd82ac013a74a5313337)
++++ b/src/main/java/zoo/Predator.java	(date 1636299958408)
+@@ -1,4 +1,4 @@
+-package com.company.zoo;
++package zoo;
+ 
+ public interface Predator {
+     void hunt();
+Index: src/main/java/scooters/MaxPower.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/scooters/MaxPower.java b/src/main/java/scooters/MaxPower.java
+new file mode 100644
+--- /dev/null	(date 1636356595904)
++++ b/src/main/java/scooters/MaxPower.java	(date 1636356595904)
+@@ -0,0 +1,5 @@
++package scooters;
++
++public interface MaxPower {
++    double getPower();
++}
+Index: src/com/company/zoo/Flyable.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/com/company/zoo/Flyable.java b/src/main/java/zoo/Flyable.java
+rename from src/com/company/zoo/Flyable.java
+rename to src/main/java/zoo/Flyable.java
+--- a/src/com/company/zoo/Flyable.java	(revision be26c4628846f33656c0fd82ac013a74a5313337)
++++ b/src/main/java/zoo/Flyable.java	(date 1636299958416)
+@@ -1,4 +1,4 @@
+-package com.company.zoo;
++package zoo;
+ 
+ public interface Flyable {
+     public void fly();
+Index: src/main/java/scooters/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/scooters/Main.java b/src/main/java/scooters/Main.java
+new file mode 100644
+--- /dev/null	(date 1636356808648)
++++ b/src/main/java/scooters/Main.java	(date 1636356808648)
+@@ -0,0 +1,19 @@
++package scooters;
++
++        public class Main {
++
++            public static void main(String[] args) {
++                XiaomiM365 xiaomiM365 = new XiaomiM365(36);
++                KugooG2Pro kugooG2Pro = new KugooG2Pro(48);
++                KingSongDS11 kingSongDS11 = new KingSongDS11(60);
++
++
++                printPower(xiaomiM365);
++                printPower(kugooG2Pro);
++                printPower(kingSongDS11);
++
++            }
++            public static void printPower(MaxPower maxPower) {
++                System.out.println(maxPower.getPower());
++            }
++        }
+Index: src/test/java/zoo/AnimalTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/zoo/AnimalTest.java b/src/test/java/zoo/AnimalTest.java
+new file mode 100644
+--- /dev/null	(date 1636300908032)
++++ b/src/test/java/zoo/AnimalTest.java	(date 1636300908032)
+@@ -0,0 +1,22 @@
++package zoo;
++
++import org.testng.annotations.Test;
++
++import static org.testng.Assert.*;
++
++public class AnimalTest extends TestBase{
++
++    @Test(groups = {GroupTest.SMOKE, GroupTest.REGRESSION, GroupTest.SANITY})
++    public void testSpeaks() {
++        int legs = 4;
++        String breath = "air";
++        String moves = "on land";
++        System.out.println("Animals have: " + legs + " legs");
++        assertEquals(4, 4);
++        System.out.println("Animal breath: " + breath);
++        assertEquals("air", "air");
++        System.out.println("Animal moves and lives: " + moves);
++        assertEquals("on land", "on land");
++
++    }
++}
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1636188764021)
++++ b/.idea/vcs.xml	(date 1636188764021)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"EntryPointsManager\">\n    <entry_points version=\"2.0\" />\n  </component>\n  <component name=\"ProjectKey\">\n    <option name=\"state\" value=\"project://e2804f05-5315-4fc6-a121-c522a6c26470\" />\n  </component>\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_17\" default=\"true\" project-jdk-name=\"17\" project-jdk-type=\"JavaSDK\">\n    <output url=\"file://$PROJECT_DIR$/out\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision be26c4628846f33656c0fd82ac013a74a5313337)
++++ b/.idea/misc.xml	(date 1636188764014)
+@@ -1,10 +1,12 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="EntryPointsManager">
+-    <entry_points version="2.0" />
+-  </component>
+-  <component name="ProjectKey">
+-    <option name="state" value="project://e2804f05-5315-4fc6-a121-c522a6c26470" />
++  <component name="ExternalStorageConfigurationManager" enabled="true" />
++  <component name="MavenProjectsManager">
++    <option name="originalFiles">
++      <list>
++        <option value="$PROJECT_DIR$/pom.xml" />
++      </list>
++    </option>
+   </component>
+   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
