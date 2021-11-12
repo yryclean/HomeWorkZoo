@@ -10,6 +10,6 @@ public class TestBase {
     }
     @AfterTest
     public void tearDown() {
-        System.out.println("All checks are completed!");
+        System.out.println("\nAll checks are completed!");
     }
 }
